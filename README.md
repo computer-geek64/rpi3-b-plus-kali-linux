@@ -25,7 +25,7 @@ apt-get autoclean
 * **Ashish D'Souza** - [computer-geek64](https://github.com/computer-geek64)
 
 ## APA Reference and Citation
-* D'Souza, A. (2018, September 18). Raspberry Pi 3 Model B+ Kali Linux Installation. Retrieved from https://github.com/computer-geek64/grayson/blob/master/README.md
+* D'Souza, A. (2018, September 19). Raspberry Pi 3 Model B+ Kali Linux Installation. Retrieved from https://github.com/computer-geek64/rpi3-b-plus-kali-linux/blob/master/README.md
 * (D'Souza, 2018)
 
 ## License
