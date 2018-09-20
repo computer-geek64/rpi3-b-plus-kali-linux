@@ -14,8 +14,7 @@ apt-get autoremove
 apt-get autoclean
 ```
 
----
 Ashish D'Souza
 September 19th, 2018
----
-D'Souza, A. (2018, September 18). Raspberry Pi 3 Model B+ Kali Linux Installation. Retrieved from https://github.com/computer-geek64
+
+D'Souza, A. (2018, September 18). Raspberry Pi 3 Model B+ Kali Linux Installation. Retrieved from https://github.com/computer-geek64/grayson/blob/master/README.md
