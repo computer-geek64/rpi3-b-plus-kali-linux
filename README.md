@@ -1,5 +1,5 @@
 # Raspberry Pi 3 Model B+ Kali Linux Installation
-*September 19th, 2018*
+*October 3rd, 2018*
 
 ## Dependencies
 * Linux operating system, preferrably existing Kali Linux OS
